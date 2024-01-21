@@ -32,11 +32,11 @@ app.get('/', (req, res) => {
 });
 app.listen(port, () => {
   console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🔗 Powered By utx`);
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["BANDAR IS THE GOAT"];
 
 
 let currentIndex = 0;
@@ -59,11 +59,11 @@ async function login() {
  ██╔══██╗░░░██║░░░░██╔██╗░          
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+GIT : https://github
+  DISCORD SERVER : https://discord.
+  YOUTUBE : A
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by 
  * **********************************************
  */
 
@@ -110,10 +110,10 @@ login();
  ██╔══██╗░░░██║░░░░██╔██╗░          
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+GIT : https://githu 
+  DISCORD SERVER : https:// Cqz
+  YOUTUBE : https:// iJa1BIrv0A
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by  
  * **********************************************
  */
